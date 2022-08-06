@@ -1,0 +1,15 @@
+C:\Users\777\Desktop\examples\5_conditionIfelse\obj\Debug\net6.0\5_conditionIfelse.csproj.AssemblyReference.cache
+C:\Users\777\Desktop\examples\5_conditionIfelse\obj\Debug\net6.0\5_conditionIfelse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\777\Desktop\examples\5_conditionIfelse\obj\Debug\net6.0\5_conditionIfelse.AssemblyInfoInputs.cache
+C:\Users\777\Desktop\examples\5_conditionIfelse\obj\Debug\net6.0\5_conditionIfelse.AssemblyInfo.cs
+C:\Users\777\Desktop\examples\5_conditionIfelse\obj\Debug\net6.0\5_conditionIfelse.csproj.CoreCompileInputs.cache
+C:\Users\777\Desktop\examples\5_conditionIfelse\bin\Debug\net6.0\5_conditionIfelse.exe
+C:\Users\777\Desktop\examples\5_conditionIfelse\bin\Debug\net6.0\5_conditionIfelse.deps.json
+C:\Users\777\Desktop\examples\5_conditionIfelse\bin\Debug\net6.0\5_conditionIfelse.runtimeconfig.json
+C:\Users\777\Desktop\examples\5_conditionIfelse\bin\Debug\net6.0\5_conditionIfelse.dll
+C:\Users\777\Desktop\examples\5_conditionIfelse\bin\Debug\net6.0\5_conditionIfelse.pdb
+C:\Users\777\Desktop\examples\5_conditionIfelse\obj\Debug\net6.0\5_conditionIfelse.dll
+C:\Users\777\Desktop\examples\5_conditionIfelse\obj\Debug\net6.0\refint\5_conditionIfelse.dll
+C:\Users\777\Desktop\examples\5_conditionIfelse\obj\Debug\net6.0\5_conditionIfelse.pdb
+C:\Users\777\Desktop\examples\5_conditionIfelse\obj\Debug\net6.0\5_conditionIfelse.genruntimeconfig.cache
+C:\Users\777\Desktop\examples\5_conditionIfelse\obj\Debug\net6.0\ref\5_conditionIfelse.dll
