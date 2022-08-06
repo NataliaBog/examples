@@ -1,0 +1,15 @@
+C:\Users\777\Desktop\examples\3_sum\bin\Debug\net6.0\3_sum.exe
+C:\Users\777\Desktop\examples\3_sum\bin\Debug\net6.0\3_sum.deps.json
+C:\Users\777\Desktop\examples\3_sum\bin\Debug\net6.0\3_sum.runtimeconfig.json
+C:\Users\777\Desktop\examples\3_sum\bin\Debug\net6.0\3_sum.dll
+C:\Users\777\Desktop\examples\3_sum\bin\Debug\net6.0\3_sum.pdb
+C:\Users\777\Desktop\examples\3_sum\obj\Debug\net6.0\3_sum.csproj.AssemblyReference.cache
+C:\Users\777\Desktop\examples\3_sum\obj\Debug\net6.0\3_sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\777\Desktop\examples\3_sum\obj\Debug\net6.0\3_sum.AssemblyInfoInputs.cache
+C:\Users\777\Desktop\examples\3_sum\obj\Debug\net6.0\3_sum.AssemblyInfo.cs
+C:\Users\777\Desktop\examples\3_sum\obj\Debug\net6.0\3_sum.csproj.CoreCompileInputs.cache
+C:\Users\777\Desktop\examples\3_sum\obj\Debug\net6.0\3_sum.dll
+C:\Users\777\Desktop\examples\3_sum\obj\Debug\net6.0\refint\3_sum.dll
+C:\Users\777\Desktop\examples\3_sum\obj\Debug\net6.0\3_sum.pdb
+C:\Users\777\Desktop\examples\3_sum\obj\Debug\net6.0\3_sum.genruntimeconfig.cache
+C:\Users\777\Desktop\examples\3_sum\obj\Debug\net6.0\ref\3_sum.dll
